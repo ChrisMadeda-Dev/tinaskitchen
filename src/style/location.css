@@ -1,0 +1,34 @@
+.location-page {
+  width: 100%;
+  height: 100vh;
+}
+
+.location-page > header {
+  height: 10vh;
+  width: 100%;
+  background: whitesmoke;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.location-page > header > span {
+  height: 100%;
+  width: 10%;
+  background-color: '';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.location-page > header > h1 {
+  width: 90%;
+  height: 100%;
+  margin-left: 10px;
+  color: #303030;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
